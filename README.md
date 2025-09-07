@@ -1,3 +1,3 @@
 # mlops-zcamp
 
-Hello from VS
+Hello from VS and Linux
